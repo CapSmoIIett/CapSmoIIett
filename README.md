@@ -19,6 +19,8 @@
   <img src="https://www.codewars.com/users/Cap%20Smollett/badges/small" alt="CodeWars Badge"/>
 </div>
 
+![Enter some description](https://leetcode-badge-sage.vercel.app/badge/CapSmoIIett?theme=dark)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <div>
