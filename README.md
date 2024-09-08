@@ -4,7 +4,36 @@
   This place for information about me
  
 </h2>
- (empty)
+  Hi. My name is Matthew. I am a C++ developer with 3 years of experience developing desktop and server applications in the field of information security
+Hard skills:
+- C/C++
+- Qt
+- Linux
+- Windows
+- Python
+
+Work experience:
+- EgoSecure - application in the field of Endpoint Security.
+- C/C++
+- MFC
+- InfoCode - Product - EDR - system
+- C++
+- windows kernel
+- cmake
+- Freelance:
+- Python
+- C++
+
+I had experience working with:
+- CUDA
+- microcontrollers
+- telegram bots
+
+I have experience working under Linux (API).
+
+I used such tools as: gcc, gdb, Visual Studio Code, QtCreator, PostgreSQL, pgAdmin, winDbg.
+
+Worked with virtual machines: VMWare, VirtualBox
 <h2>
   
 </h2>
