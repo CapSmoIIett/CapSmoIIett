@@ -14,15 +14,15 @@ Hard skills:
 
 Work experience:
 - EgoSecure - application in the field of Endpoint Security.
-- C/C++
-- MFC
+  - C/C++
+  - MFC
 - InfoCode - Product - EDR - system
-- C++
-- windows kernel
-- cmake
+  - C++
+  - windows kernel
+  - cmake
 - Freelance:
-- Python
-- C++
+  - Python
+  - C++
 
 I had experience working with:
 - CUDA
