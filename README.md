@@ -4,7 +4,8 @@
   This place for information about me
  
 </h2>
-  Hi. My name is Matthew. I am a C++ developer with 3 years of experience developing desktop and server applications in the field of information security
+  Hi. My name is Matthew. I am a C++ developer with 3 years of experience developing desktop and server applications in the field of information security.
+  
 Hard skills:
 - C/C++
 - Qt
